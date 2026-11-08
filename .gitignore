@@ -1,0 +1,7 @@
+.venv/
+.env
+node_modules/
+
+# Keep local runtime data out of the repository.
+data/*.sqlite3
+data/*.sqlite3-*
